@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Donald Bowler👋
+***
+*enjoy some music as you read my readme.* 
+
+
+https://github.com/DonaldBowler44/DonaldBowler44/assets/96385571/57c9de36-e7c3-475f-acbb-6d4e9d150f29
+
 
 <!--
 **DonaldBowler44/DonaldBowler44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
